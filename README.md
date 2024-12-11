@@ -14,7 +14,7 @@
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> Informações da Tarefa (Parte 1)</a></li>
 
 # Código
   <li><a href= "src/modelagem.md"> Codigo .blend</a></li>
